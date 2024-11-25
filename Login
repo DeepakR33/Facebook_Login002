@@ -1,3 +1,4 @@
 Launch app
 Enter username (or)
+Enter mobile number
 Enter password
